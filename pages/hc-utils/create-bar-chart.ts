@@ -5,7 +5,7 @@ import Highcharts from "highcharts";
 import borderRadius from "highcharts-border-radius";
 import BarChartXAxisLable from "../charts/hc-bar-x-label";
 
-borderRadius(Highcharts);
+// borderRadius(Highcharts);
 
 type Props = { data: any; drilldown?: any };
 
